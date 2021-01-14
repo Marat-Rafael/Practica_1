@@ -9,7 +9,6 @@ public class Practica_1 {
 	// esto nos obliga a declarar lo con static
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		Scanner sc = new Scanner(System.in);
 		int opcion;
@@ -32,7 +31,7 @@ public class Practica_1 {
 				System.out.println("0. Salir");
 				System.out.println("**********************************************");
 				opcion = sc.nextInt();				
-				switch (opcion) {
+				switch (opcion) {	// switch para menu
 
 				case 1: // 5 numeros almacenar en array
 					crearArray();
