@@ -23,7 +23,7 @@ public class Practica_1 {
 				System.out.println("1. leer 5 numeros, almacenar en array");
 				System.out.println("2. Leer 5 numeros y mostrar en orden inverso");
 				System.out.println("3. Leer 5 numeros, contar media");
-				System.out.println("4. Contar caracteres que tiene texto");
+				System.out.println("4. Contar cuantos caracteres tiene texto");
 				System.out.println("5. Invertir texto");
 				System.out.println("6. Eliminar espacios en texto");
 				System.out.println("7. Concatenar dos cadenas");
